@@ -3,6 +3,7 @@ body{
     background-color: rgb(246, 232, 210);
     text-align: justify;
     color: rgb(47, 26, 10);
+    margin: 40px;
 }
 a{
     color: brown;
